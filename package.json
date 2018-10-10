@@ -1,4 +1,7 @@
 {
   "name": "simple",
-  "version": "0.1.2"
+  "version": "0.1.2",
+  "dependencies": {
+    "react": "^16.5.2"
+  }
 }
